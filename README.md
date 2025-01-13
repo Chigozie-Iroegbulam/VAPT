@@ -1,14 +1,23 @@
 # VAPT
 # OSINT Exploration and Introduction to Web Application Security
 Material
+
 [https://www.youtube.com/watch?v=HnJ1bqXUnIM&authuser=2](https://tineye.com/?authuser=2) (tiny eye)
+
 https://www.exploit-db.com/google-hacking-database?authuser=2  (google hacking database)
+
 https://drive.google.com/file/d/1XU5ahKifYw78B054SD78U6HArVi-PJaS/view?usp=classroom_web&authuser=2 (osint handbook)
+
 https://www.youtube.com/watch?v=qW96515QG6Y&authuser=2
+
 https://www.youtube.com/watch?v=hrVa_dhD-iA&authuser=2 (google hacking)
+
 https://www.youtube.com/watch?v=x3c1ih2NJEg&authuser=2
+
 https://www.youtube.com/watch?v=lYbATjjjDxM&authuser=2
+
 https://www.youtube.com/watch?v=5YDVJaItmaY&authuser=2
+
 https://tryhackme.com/r/room/howwebsiteswork?authuser=2
 
 #  Vulnerability Assessment
